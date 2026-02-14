@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I am Nadia Khalid
 **A passionate Software Engineer || C# & .Net Expert || Asst. Executive Engr @ NRTC**
 
-Email Me 👉 ✉️ **nadiakhalid9900@gmail.com** for collaboration, project inquiries, or anything Else.😊
+Email Me 👉 ✉️ **nadiakhalid9900@gmail.com** for collaboration, project inquiries, or anything else.😊
 
 - **I’m currently working on:** Cross-platform SDR communication applications (V/UHF) at NRTC, focusing on real-time messaging, file sharing, and secure audio/video calling.
 - **I’m currently learning:** Advanced AI concepts as part of my Master’s in Artificial Intelligence at Pak-Austria Fachhochschule (PAF-IAST).
