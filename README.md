@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I am Nadia Khalid
-**A passionate Software Engineer || C# & .Net Expert || Asst. Executive Engr @ NRTC**
+**A passionate Software Engineer || C# & .Net Expert || Python Developer**
 
 Email Me 👉 ✉️ **nadiakhalid9900@gmail.com** for collaboration, project inquiries, or anything else.😊
 
